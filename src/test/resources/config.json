@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://demoqa.com/",
+  "timeout": 10,
+  "shortTimeout": 5,
+  "browser": "chrome",
+  "startMaximized": true,
+  "language": "en-US",
+  "chromeArguments": [
+    "--incognito",
+    "--disable-notifications"
+  ],
+  "firefoxArguments": [
+    "-private"
+  ]
+}

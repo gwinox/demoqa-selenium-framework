@@ -1,0 +1,27 @@
+{
+  "simpleAlertText": "You clicked a button",
+  "confirmAlertText": "Do you confirm action?",
+  "promptAlertText": "Please enter your name",
+  "confirmButtonChooseText": "You selected Ok",
+  "randomStringLength": 5,
+  "nestedParentFrameText": "Parent frame",
+  "nestedChildFrameText": "Child Iframe",
+  "users": [
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "email": "knownnothing@gmail.com",
+      "age": 30,
+      "salary": 3000,
+      "department": "alpha"
+    },
+    {
+      "firstName": "Buttercup",
+      "lastName": "Cumbersnatch",
+      "email": "BudapestCandygram@mail.ru",
+      "age": 41,
+      "salary": 2000,
+      "department": "beta"
+    }
+  ]
+}
